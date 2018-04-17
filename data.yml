@@ -1,0 +1,22 @@
+users:
+  Mathson1:
+    username: Mathson1
+    articleIds:
+      - 1
+    commentIds: []
+  Mathson:
+    username: Mathson
+    articleIds: []
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: Hello World 2
+    url: abcdefghijklmn.com
+    username: Mathson1
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+nextArticleId: 2
+comments: {}
+nextCommentId: 1
